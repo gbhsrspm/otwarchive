@@ -5,6 +5,7 @@ defaults: &defaults
   host: db
   username: root
   password: change_me
+  port: 3308
 
 development:
   database: otwarchive_development
